@@ -24,7 +24,7 @@ This repository contains Python code for performing anomaly detection on network
 1. Place your network traffic data in a CSV file named `network_traffic_data.csv` in the same directory as the Python script.
 2. Run the script using Python:
    ```
-   python network_traffic_anomaly_detection.py
+   python presentation.py
    ```
 
 ## Description
